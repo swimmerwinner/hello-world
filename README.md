@@ -1,2 +1,3 @@
 # hello-world
-Following the guide.
+
+Learning GitHub so I can do things with it.
